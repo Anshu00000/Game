@@ -1,2 +1,2 @@
 # Game
-This is a Simon Says game 
+This is a Simon Says game .
